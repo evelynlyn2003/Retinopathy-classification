@@ -46,6 +46,7 @@ Adam（初始學習率：`1e-5`）
 
 #### 1. Kaggle Public Score
 **0.79863**
+
 ***(kaggle)***
 ***Advanced Baseline --- 0.72218***
 
