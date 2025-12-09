@@ -14,7 +14,7 @@ https://www.kaggle.com/competitions/diabetic-retinopathy-classification-3/overvi
 #### 3.將基礎 ResNet50 模型的所有參數凍結，有效防止在小數據集上過度擬合。
 
 ### C.訓練與優化 (Training)
-#### 1.優化器採用 Adam 優化器，初始學習率1e-3。
+#### 1.優化器採用 Adam 優化器，初始學習率1e-5。
 
 ### D.結果與評估
 #### 1.kaggle的評分 0.79863
