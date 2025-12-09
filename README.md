@@ -11,7 +11,7 @@ https://www.kaggle.com/competitions/diabetic-retinopathy-classification-3/overvi
 ### B.模型 (Model)
 #### 1.採用 深度遷移學習 (Deep Transfer Learning)。
 #### 2.使用 ResNet50 預訓練模型，透過殘差塊 (Residual Blocks) 解決了深度網絡訓練中的梯度消失問題。
-#### 3.將基礎 ResNet50 模型的所有參數凍結，有效防止在小數據集上過度擬合。
+#### 3.將基礎 ResNet50 模型的layer1模組，有效防止在小數據集上過度擬合。
 
 ### C.訓練與優化 (Training)
 #### 1.優化器採用 Adam 優化器，初始學習率1e-5。
