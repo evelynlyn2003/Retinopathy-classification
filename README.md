@@ -46,6 +46,9 @@ Adam（初始學習率：`1e-5`）
 
 #### 1. Kaggle Public Score
 **0.79863**
+--- Advanced Baseline --- 0.72218
+
+---- Medium Baseline ---- 0.56730
 
 #### 2. AUC Score（One-vs-Rest）
 **0.9347**
