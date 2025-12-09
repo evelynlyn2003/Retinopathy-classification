@@ -44,15 +44,12 @@ Adam（初始學習率：`1e-5`）
 
 ### D. 模型結果與效能評估 (Results)
 
-#### 1. Kaggle Public Score
-**0.79863**
+#### 1. Kaggle Public Score : 0.79863
 
-***Advanced Baseline --- 0.72218***
+`***Advanced Baseline --- 0.72218***`
 
-***Medium Baseline ---- 0.56730***
+`***Medium Baseline ---- 0.56730***`
 
-#### 2. AUC Score（One-vs-Rest）
-**0.9347**
+#### 2. AUC Score（One-vs-Rest）: 0.9347
 
-#### 3. 敏感度（Sensitivity - Weighted）
-**80.91%**
+#### 3. 敏感度（Sensitivity - Weighted）: 80.91%
