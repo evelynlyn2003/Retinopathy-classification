@@ -40,12 +40,6 @@ Residual Blocks 有效解決深層網路的梯度消失問題，使訓練更穩�
 #### 2. 優化器
 Adam（初始學習率：`1e-5`）
 
-#### 3. 其他訓練細節（可選）
-- 使用 GPU（`.to(device)`）進行訓練  
-- batch-wise 訓練搭配 DataLoader  
-- 訓練/驗證時分別使用 `model.train()` / `model.eval()`  
-- 測試時使用 `torch.no_grad()` 以節省記憶體
-
 ---
 
 ### D. 模型結果與效能評估 (Results)
