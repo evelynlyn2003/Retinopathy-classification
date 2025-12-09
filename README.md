@@ -17,9 +17,8 @@ https://www.kaggle.com/competitions/diabetic-retinopathy-classification-3/overvi
 #### 1.優化器採用 Adam 優化器，初始學習率$1e-3$。
 
 ### D.結果與評估
-#### 1.kaggle的評分
-#### --- Advanced Baseline --- 0.72218
-#### ---- Medium Baseline ---- 0.56730
-#### 本次成績:0.79863
+#### 1.kaggle的評分 0.79863
+#### 2.AUC Score (One-vs-Rest) : 0.9347
+#### 3.敏感度 (Sensitivity - Weighted) :80.91%
 
 
