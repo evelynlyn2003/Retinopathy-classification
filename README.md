@@ -1,4 +1,4 @@
-# 基於深度遷移學習的糖尿病視網膜病變分類
+# 辨識糖尿病視網膜病變影像，進行嚴重度分類
 ### A 數據 (Dataset & DataLoader)
 #### 1.資料來源 : Kaggle 糖尿病視網膜病變分級競賽 (diabetic-retinopathy-classification-3) 的資料集。
 https://www.kaggle.com/competitions/diabetic-retinopathy-classification-3/overview
